@@ -10,3 +10,7 @@ Images
 Animations
 
   1. Adobe after effects
+  
+#### Note
+
+all the images are high resolution.
